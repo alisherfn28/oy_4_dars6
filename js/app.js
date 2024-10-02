@@ -57,11 +57,9 @@
 
 // let sum = 0;
 
-let sum = 0;
+// for (let i = 1; i <= 10; i++) {
+//   let num = prompt(`${i}-sonni kiriting:`); // Kiritilgan sonni olish
+//   sum += +num; // Kiritilgan sonni yig'indiga qo'shamiz
+// }
 
-for (let i = 1; i <= 10; i++) {
-  let num = prompt(`${i}-sonni kiriting:`); // Kiritilgan sonni olish
-  sum += +num; // Kiritilgan sonni yig'indiga qo'shamiz
-}
-
-console.log(`Kiritilgan 10 ta sonning yig'indisi: ${sum}`);
+// console.log(`Kiritilgan 10 ta sonning yig'indisi: ${sum}`);
