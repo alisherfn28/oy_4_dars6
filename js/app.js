@@ -58,8 +58,32 @@
 // let sum = 0;
 
 // for (let i = 1; i <= 10; i++) {
-//   let num = prompt(`${i}-sonni kiriting:`); // Kiritilgan sonni olish
-//   sum += +num; // Kiritilgan sonni yig'indiga qo'shamiz
+//   let num = prompt(`${i}-sonni kiriting:`);
+//   sum += +num;
 // }
 
 // console.log(`Kiritilgan 10 ta sonning yig'indisi: ${sum}`);
+
+//10-masala;
+
+// for (let i = 1; i <= 50; i++) {
+//   if (i % 5 == 0) {
+//     console.log(i);
+//   }
+// }
+
+//11-masala;
+
+// for (let i = 100; i >= 1; i--) {
+//   console.log(i);
+// }
+
+//12-masala;
+
+// let sum = 0;
+
+// for (let i = 1; i <= 100; i++) {
+//   sum += +i;
+// }
+
+// console.log(sum);
