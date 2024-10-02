@@ -57,12 +57,6 @@
 
 // let sum = 0;
 
-// for (let i = 1; i <= 10; i++) {
-//   let num = prompt(`${i} - sonni kiriting`);
-//   sum += num;
-//   console.log(sum);
-// }
-
 let sum = 0;
 
 for (let i = 1; i <= 10; i++) {
